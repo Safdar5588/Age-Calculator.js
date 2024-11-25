@@ -1,0 +1,42 @@
+.countainer{
+    width: 50%;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(104, 25, 25);
+    padding: 50px 0px;
+    border-radius: 20px;
+}
+
+
+.form{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.calculate{
+    width: 50%;
+    margin: auto;
+    padding: 12px 10px;
+    background-color:#792929;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.calculate:hover{
+    background-color: #682626;
+}
+
+
+input{
+    padding: 15px;
+    border : 2px solid black;
+    font-size: 18px;
+    font-weight: bolder;
+}
